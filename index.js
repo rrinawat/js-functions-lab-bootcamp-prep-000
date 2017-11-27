@@ -4,6 +4,5 @@ function happyHolidays(){
 }
 
 function happyHolidaysTo(name){
-  String greeting =  new String("Happy holidays,")
-  return '${greeting}, ${name}!'
+
 }
